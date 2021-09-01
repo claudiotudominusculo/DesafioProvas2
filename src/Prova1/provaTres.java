@@ -7,7 +7,7 @@ import java.util.Scanner;
 // Em seguida, calcule e mostre a soma ou a média considerando somente aqueles elementos que estão na
 // área inferior da matriz, conforme ilustrado abaixo (área verde).
 
-public class Prova3 {
+public class provaTres {
     public static void main(String[] args) throws IOException {
         Scanner leitor = new Scanner(System.in);
         double soma = 0;
